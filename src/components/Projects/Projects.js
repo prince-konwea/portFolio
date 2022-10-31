@@ -26,7 +26,7 @@ function Projects() {
               isBlog={false}
               title="Chatbox"
               description="A chatting application built with Nodejs, React and socketio still in progress...."
-              ghLink="https://github.com/prince-konwea/chatbox"
+              ghLink="https://github.com/prince-konwea/chatBox-Api"
               // demoLink="https://chatify-49.web.app/"
             />
           </Col>

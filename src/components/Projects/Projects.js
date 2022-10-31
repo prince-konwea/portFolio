@@ -71,7 +71,7 @@ function Projects() {
               isBlog={false}
               title="music-app"
               description="Building a music application with Reactjs and connecting to spotify api"
-              ghLink="https://github.com/prince-konwea/music-app"
+              ghLink="https://github.com/prince-konwea/MusicPlayer"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>

@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple"> Prince Konwea </span>
               from <span className="purple">Abuja, Nigeria</span>
-            <br />I am a software developer and CTO of beanscript.ng.
+            <br />I am a software developer and Open Source Contributor.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
